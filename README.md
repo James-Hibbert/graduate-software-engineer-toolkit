@@ -34,6 +34,8 @@ The complete toolkit is available here:
 
 https://hibbertcfc.gumroad.com/l/graduate-software-engineer-toolkit
 
+https://www.etsy.com/uk/listing/4528904214/graduate-software-engineer-toolkit
+
 ## License
 
 The templates and resources contained within the commercial toolkit are not included in this repository.
